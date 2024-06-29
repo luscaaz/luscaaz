@@ -13,9 +13,9 @@ I'm a beginner developer hoping to jump into this exciting new world. Adventurin
 
 ---
 ## <img src="https://media3.giphy.com/media/GbxZdp9V9TojWhTFeK/giphy.gif?cid=ecf05e47ayh5zv2bmq51o92s4osxbvvl0vnckpm26030jmmx&rid=giphy.gif&ct=s" width="30px" height="30px"> Connect with me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/flávio-motta-28155052/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adsunifaminas/)
-[![image](https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:flavioaam@hotmail.com?subject=Feedback%20From%20Github&body=Hello)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-calais-674662169/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_luscazz/)
+[![image](https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lucascls8@gmail.com?subject=Feedback%20From%20Github&body=Hello)
 
 ### 🧰 Languages and Tools
 
